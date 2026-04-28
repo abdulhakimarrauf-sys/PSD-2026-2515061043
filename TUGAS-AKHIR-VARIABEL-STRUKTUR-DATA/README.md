@@ -59,3 +59,21 @@ Program ini berfungsi sebagai sistem manajemen parkir kendaraan mahasiswa yang m
 53.	
 54.	Ini adalah baris pengaman standar di Python. Baris ini memastikan bahwa fungsi di dalamnya hanya akan berjalan jika file ini dijalankan secara langsung (misalnya dengan mengetik python nama_file.py). Jika file ini di-import sebagai modul oleh file lain, fungsi main() tidak akan berjalan secara otomatis.
 55.	Baris ini adalah perintah untuk memanggil fungsi main() yang berisi seluruh logika program parkir. Tanpa pemanggilan ini, program hanya akan mendefinisikan fungsi-fungsi tanpa pernah benar-benar menjalankannya.
+
+Output :
+<img width="242" height="98" alt="Screenshot 2026-04-28 233901" src="https://github.com/user-attachments/assets/ac62f16b-8bcf-4630-b044-c757dddc752b" />
+
+Menu 1 Sebelum di inputkan Nilai
+<img width="265" height="187" alt="Screenshot 2026-04-28 233919" src="https://github.com/user-attachments/assets/23869b3c-ae9b-4b91-8737-9157566b5f02" />
+
+Setelah di inputkan Nilai
+<img width="302" height="191" alt="Screenshot 2026-04-28 234121" src="https://github.com/user-attachments/assets/be9204e4-ea69-4df0-a4a7-ed88bd6581f0" />
+
+Menu 2
+<img width="295" height="593" alt="Screenshot 2026-04-28 234313" src="https://github.com/user-attachments/assets/5dd4efdb-12ef-436c-a73b-9b6493cb8dad" />
+<img width="281" height="322" alt="Screenshot 2026-04-28 234355" src="https://github.com/user-attachments/assets/a9ff685c-a3de-436d-b777-12b5d1d97b74" />
+
+Menu 3
+<img width="382" height="156" alt="Screenshot 2026-04-28 234446" src="https://github.com/user-attachments/assets/30ffe2c5-03fe-409f-8726-44944f1891a2" />
+
+Link : https://youtu.be/asJau8u3QFE?si=h0sPt4cr18EYx4D_

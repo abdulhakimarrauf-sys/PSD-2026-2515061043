@@ -47,4 +47,16 @@ Penjelasannya
 36.	Memanggil fungsi main() untuk memulai seluruh proses program.
 
 
-Output Program :
+Output Program
+<img width="506" height="42" alt="Screenshot 2026-05-05 204436" src="https://github.com/user-attachments/assets/5648cc0a-ab94-4c8c-8833-77a9a4fbddf4" />
+
+Output Setelah Diinputkan Jumlah Barang dan Sebelum Diinputkan Daftar Barang
+<img width="506" height="102" alt="Screenshot 2026-05-05 204534" src="https://github.com/user-attachments/assets/bf180773-67a0-4695-8748-631aa81d9f05" />
+
+Output Setelah Diinputkan Daftar Barang
+<img width="1659" height="435" alt="Screenshot 2026-05-05 204402" src="https://github.com/user-attachments/assets/1e598e62-7353-4c80-843f-600b994ea1dc" />
+
+Penjelasan Keseluruhan Output
+Program akan meminta user memasukkan jumlah barang peminjaman terlebih dahulu. Setelah itu, user diminta memasukkan nama barang yang dipinjam sesuai dengan jumlah data tersebut. Program akan menampilkan array sebelum diurutkan, lalu mengurutkannya menggunakan Insertion Sort secara ascending dengan membandingkan karakter huruf (mengabaikan huruf kapital) sehingga data ditampilkan secara rapi berdasarkan urutan alfabet dari A ke Z.
+
+LInk YouTube : https://youtu.be/58Xshm3gSWo

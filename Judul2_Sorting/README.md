@@ -1,12 +1,14 @@
-**Daftar Peminjaman Barang**
+Daftar Peminjaman Barang
 
-**Deskripsi**
+Deskripsi
 Program daftar peminjaman barang ini berfungsi untuk mendata dan mengorganisir nama-nama barang yang dipinjam oleh pengguna agar tersusun secara rapi berdasarkan urutan alfabet (A-Z). Dengan adanya program ini, pengguna dapat memasukkan jumlah serta identitas barang yang dipinjam, kemudian sistem akan secara otomatis memproses daftar tersebut sehingga lebih mudah untuk dibaca dan dicari kembali dalam daftar yang terstruktur. Algoritma struktur data yang diterapkan dalam program ini adalah Insertion Sort. Algoritma ini bekerja dengan cara membagi daftar menjadi bagian yang sudah terurut dan bagian yang belum terurut, kemudian mengambil satu per satu elemen (nama barang) dari bagian yang belum terurut untuk disisipkan ke posisi yang tepat pada bagian yang sudah terurut. Proses ini dilakukan dengan membandingkan nilai string (mengabaikan perbedaan huruf besar/kecil) dan menggeser posisi elemen lainnya hingga seluruh daftar peminjaman tersusun secara kronologis berdasarkan abjad. 
 
 
+Source Code 
 <img width="1434" height="1660" alt="Tugas Akhir Judul 2" src="https://github.com/user-attachments/assets/624ae0a2-1d2a-47d8-9dfd-9b9389886a43" />
 
 
+Penjelasannya
 1.	Sebagai fungsi dari algoritma pengurutan dengan (arr) sebagai daftar nama barang dan  (n) jumlah total barang.
 2.	Melakukan perulangan mulai dari indeks ke-1 hingga elemen terakhir (n-1). Elemen pertama (indeks 0) dianggap sebagai bagian yang sudah terurut di awal. 
 3.	Menyimpan nama barang pada indeks saat ini ke dalam variabel sementara (temp) untuk dibandingkan.
@@ -45,3 +47,4 @@ Program daftar peminjaman barang ini berfungsi untuk mendata dan mengorganisir n
 36.	Memanggil fungsi main() untuk memulai seluruh proses program.
 
 
+Output Program :

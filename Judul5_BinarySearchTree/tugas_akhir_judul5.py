@@ -85,7 +85,7 @@ def main():
     bst = BSTDasar()
     pilih = 0
     while pilih != 10:
-        print("\n=== Data Berat Sapi ===")
+        print("\n=== Sistem Data Berat Sapi Kurban ===")
         print("1. Input Berat Sapi")
         print("2. Cari Berat Sapi")
         print("3. Data Berat Sapi Secara Inorder")

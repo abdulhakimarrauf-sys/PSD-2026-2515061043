@@ -161,3 +161,15 @@ Output Source Code Sebelum Diinput:
 <img width="278" height="197" alt="image" src="https://github.com/user-attachments/assets/b26c6c40-15c6-4b86-8c1f-e0976a94cf60" />
 
 Output Source Code Setelah Diinput:
+<img width="307" height="782" alt="Screenshot 2026-05-26 233457" src="https://github.com/user-attachments/assets/5edf7b3e-d2cc-4b9d-a4f1-ca8beb88c34a" />
+
+<img width="316" height="771" alt="Screenshot 2026-05-26 233514" src="https://github.com/user-attachments/assets/93f8f30b-cad5-4879-b7a3-b2bef4130308" />
+
+<img width="323" height="915" alt="Screenshot 2026-05-26 233531" src="https://github.com/user-attachments/assets/dd5eef99-7824-4e6c-9be0-62aab115d54d" />
+
+<img width="275" height="361" alt="Screenshot 2026-05-26 233549" src="https://github.com/user-attachments/assets/d8a81380-9dfd-491b-ae4b-46ff933d34b5" />
+
+Penjelasan Output Source Code:
+Berdasarkan hasil eksekusi program pada gambar tangkapan layar, sistem berhasil mengelola data berat sapi kurban dengan struktur Binary Search Tree (BST) melalui serangkaian input data bobot secara bertahap, dimulai dari nilai 500, 300, 190, 999, 777, hingga 101. Melalui penelusuran struktur pohon tersebut, program dapat menampilkan data berat sapi yang terurut dari yang teringan hingga terberat secara Inorder (101 190 300 500 777 999), variasi urutan Preorder (500 300 190 101 999 777), dan urutan Postorder (101 190 300 777 999 500). Selain itu, fitur analisis data bekerja secara akurat dengan mendeteksi bobot sapi kurban terkecil pada angka 101 kg, bobot terbesar mencapai 999 kg, total hewan ternak yang terdaftar sebanyak 6 ekor sapi, serta akumulasi total berat keseluruhan sapi kurban di dalam sistem yang mencapai 2867 kg.
+
+LInk YouTube : https://youtu.be/7UOj5Mr5ta8
